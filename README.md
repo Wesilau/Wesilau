@@ -22,7 +22,7 @@ STILL WORKING ON IT.
 ### Some Works<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <div align=center>
   
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin?username=XUAN717&repo=BirdCLEF-2024&theme=rose">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin?username=Wesilau&repo=BirdCLEF-2024&theme=rose">
   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin?username=Wesilau&repo=UMETRIP&theme=rose">
 
 </div>
